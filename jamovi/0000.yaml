@@ -1,12 +1,12 @@
 ---
 title: Survey Plots
 name: surveymv
-version: 0.7.1
+version: 0.7.2
 jms: '1.0'
 authors:
   - Ravi Selker
 maintainer: Ravi Selker <selker.ravi@gmail.com>
-date: '2024-10-01'
+date: '2024-10-27'
 type: R
 description: Generates summary plots for your survey data.
 analyses:

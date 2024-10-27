@@ -1,16 +1,16 @@
 Package: surveymv
 Type: Package
 Title: Survey Plots
-Version: 0.7.1
+Version: 0.7.2
 Author: Ravi Selker
 Maintainer: Ravi Selker <selker.ravi@gmail.com>
 Description: Generates summary plots for your survey data.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
-Imports: 
-    jmvcore (>= 0.8.5), 
-    R6, 
+Imports:
+    jmvcore (>= 0.8.5),
+    R6,
     ggplot2,
     tibble,
     tidyr,
